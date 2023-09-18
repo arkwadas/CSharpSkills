@@ -1,0 +1,7 @@
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\bin\Debug\OOP_v2 popawna.exe.config
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\bin\Debug\OOP_v2 popawna.exe
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\bin\Debug\OOP_v2 popawna.pdb
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\obj\Debug\OOP_v2 popawna.csproj.AssemblyReference.cache
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\obj\Debug\OOP_v2 popawna.csproj.CoreCompileInputs.cache
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\obj\Debug\OOP_v2 popawna.exe
+D:\Kody\OOP_v2 popawna\OOP_v2 popawna\obj\Debug\OOP_v2 popawna.pdb
