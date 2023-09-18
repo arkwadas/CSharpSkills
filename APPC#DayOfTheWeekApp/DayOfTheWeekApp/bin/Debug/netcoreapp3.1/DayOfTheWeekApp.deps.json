@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DayOfTheWeekApp/1.0.0": {
+        "dependencies": {
+          "DayOfTheWeekApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "DayOfTheWeekApp.dll": {}
+        }
+      },
+      "DayOfTheWeekApp.Core/1.0.0": {
+        "runtime": {
+          "DayOfTheWeekApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DayOfTheWeekApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DayOfTheWeekApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

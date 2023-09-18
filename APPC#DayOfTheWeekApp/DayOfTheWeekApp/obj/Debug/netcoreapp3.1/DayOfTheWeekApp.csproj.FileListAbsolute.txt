@@ -1,0 +1,17 @@
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.exe
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.deps.json
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.runtimeconfig.json
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.runtimeconfig.dev.json
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.dll
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.pdb
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.csproj.AssemblyReference.cache
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.AssemblyInfoInputs.cache
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.AssemblyInfo.cs
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.csproj.CoreCompileInputs.cache
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.dll
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.pdb
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.genruntimeconfig.cache
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.dll
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.pdb
+D:\Kody\DayOfTheWeekApp\DayOfTheWeekApp\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.csproj.CopyComplete
