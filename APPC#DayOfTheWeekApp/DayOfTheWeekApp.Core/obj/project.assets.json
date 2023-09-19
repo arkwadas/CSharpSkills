@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kody\\DayOfTheWeekApp\\DayOfTheWeekApp.Core\\DayOfTheWeekApp.Core.csproj",
+      "projectUniqueName": "D:\\17_SeleniumProjekty\\SeleniumTest\\ScriptedQA\\CSharpSkills\\APPC#DayOfTheWeekApp\\DayOfTheWeekApp.Core\\DayOfTheWeekApp.Core.csproj",
       "projectName": "DayOfTheWeekApp.Core",
-      "projectPath": "D:\\Kody\\DayOfTheWeekApp\\DayOfTheWeekApp.Core\\DayOfTheWeekApp.Core.csproj",
+      "projectPath": "D:\\17_SeleniumProjekty\\SeleniumTest\\ScriptedQA\\CSharpSkills\\APPC#DayOfTheWeekApp\\DayOfTheWeekApp.Core\\DayOfTheWeekApp.Core.csproj",
       "packagesPath": "C:\\Users\\arek1\\.nuget\\packages\\",
-      "outputPath": "D:\\Kody\\DayOfTheWeekApp\\DayOfTheWeekApp.Core\\obj\\",
+      "outputPath": "D:\\17_SeleniumProjekty\\SeleniumTest\\ScriptedQA\\CSharpSkills\\APPC#DayOfTheWeekApp\\DayOfTheWeekApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
